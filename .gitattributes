@@ -1,0 +1,16 @@
+# Normaliza finales de línea en archivos de texto
+* text=auto
+
+# Documentos binarios: sin conversión de finales de línea ni diff de texto
+*.pdf  binary
+*.docx binary
+*.doc  binary
+*.odt  binary
+*.ods  binary
+*.odp  binary
+*.xlsx binary
+*.pptx binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.zip  binary
